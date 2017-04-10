@@ -1,0 +1,9 @@
+C:\Users\INF2A-user\Desktop\gg\gg\bin\Debug\gg.exe.config
+C:\Users\INF2A-user\Desktop\gg\gg\bin\Debug\gg.exe
+C:\Users\INF2A-user\Desktop\gg\gg\bin\Debug\gg.pdb
+C:\Users\INF2A-user\Desktop\gg\gg\obj\Debug\gg.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\gg\gg\obj\Debug\gg.Form1.resources
+C:\Users\INF2A-user\Desktop\gg\gg\obj\Debug\gg.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\gg\gg\obj\Debug\gg.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\gg\gg\obj\Debug\gg.exe
+C:\Users\INF2A-user\Desktop\gg\gg\obj\Debug\gg.pdb
